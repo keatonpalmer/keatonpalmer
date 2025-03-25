@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Keaton. I have been on and off Github over the years and have been stumbling through a few separate Udemy courses, trying to find a language I enjoy.
+My name is Keaton. (he/him/his)
+
+I have been on and off Github over the years and have been stumbling through a few separate Udemy courses, trying to find a language I enjoy.
 
 Currently trying to learn Python and Godot.
 
